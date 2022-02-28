@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons for preserving the publick market of Blackwell-Hall, and restraining the Levant Company of Merchants from deferring their shipping as long as they please humbly offer'd to the Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92230</idno>
+            <idno type="STC">Wing R501</idno>
+            <idno type="STC">ESTC R224828</idno>
+            <idno type="EEBO-CITATION">36273459</idno>
+            <idno type="OCLC">ocm 36273459</idno>
+            <idno type="VID">150192</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92230)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150192)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2236:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons for preserving the publick market of Blackwell-Hall, and restraining the Levant Company of Merchants from deferring their shipping as long as they please humbly offer'd to the Parliament.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1696?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Endorsed title cropped: [--?--] of the clothiers.</note>
+                  <note>Date and place of publication from Wing (2nd ed.).</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Blackwell Hall (London, England)</term>
+               <term>Wool --  Great Britain --  Marketing --  Early works to 1800.</term>
+               <term>Wool industry --  Great Britain --  Early works to 1800.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:150192:1" rendition="simple:additions"/>
+            <head>REASONS <hi>for Preſerving the Publick Market of</hi> Blackwell-Hall, <hi>and reſtraining the</hi> Levant <hi>Company of Merchants from de<g ref="char:EOLhyphen"/>ferring their Shipping as long as they pleaſe.</hi>
+            </head>
+            <head type="sub">Humbly Offer'd to the PARLIAMENT.</head>
+            <p>THE Life of Trade depends upon an equal Encouragement to all Perſons that are Inſtruments of its Promotion: And the Variety of Circumſtances that make an Odds in Buying and Selling (the tender part of Trade) are ſo many, that nothing but a Publick Market can make an equal Ballance, where alone the Buyer and Seller are upon equal Ground. The Buildings of <hi>Blackwell-Hall</hi> (fairly accommodated to Trade) are now become no more (for the moſt part in Merchants Cloth) than a Reception to collect a Duty out of the Cloth, and then ſent by Factors and others into private Houſes for a Sale, and the Maker become an unconcern'd Perſon in the Sale of his own Goods, ſcarce a Merchant appearing at this publick Market.</p>
+            <p>The Hardſhips upon the Clothiers from this Alteration, which is about twenty or thirty Years, are chiefly theſe:</p>
+            <p n="1">1. He can never know what Quantities of Cloth of any ſort is upon Hand to be ſold, which is a great light for his Government in holding up the Price of his Goods; whilſt the Merchants and Packers are well enough converſant in this Point: Nay, the Packers many times magnifie their Stock of Cloth, to give the Merchants Encouragement to come and buy from the greater Choice; as hath been manifeſt from many Inſtances; which is hard upon the Maker.</p>
+            <p n="2">2. Hereby the Merchants have their Parcels of Cloth laid up by the Packers againſt a Shipping, which remain upon the Clothiers Account, thereby beating down the Price in little Parcels to ſupport the Work-people; and when the Shipping come, the whole Parcel ſold off at that Price, and not the leaſt Advance made by the Merchant: Whereas, was ſo great Quantities of Cloth bought by many Hands in the Publick Market, it would neceſſa<g ref="char:EOLhyphen"/>rily make ſome Advance upon Cloth, and our Monied Merchants, to gain that Advantage, would always be a buying before-hand.</p>
+            <p n="3">3. The Packer and Factor, to accommodate the Merchant, hath brought on a long Credit with Cloth; and the Packer being under other Obligations, is always very tender of preſſing the Merchant for Payment, if his Conditions are not performed: Neither, indeed, is he a fit Perſon to be employed in the Sale of Cloth for a Clothier, having a nearer Intereſt of his own to prefer.</p>
+            <p n="4">4. The Packer being a Buyer of Cloth himſelf againſt a Shipping, is always a beating down the Price upon the Clothier, for his own Advantage; and the beſt Opportunities for Sales beſure will be reſerved for his own Goods, if not put off by a better Sortment of the Clothier's.</p>
+            <p n="5">5. Hereby the Merchant having Opportunity to buy Cloth upon any day of the Week, the Clothier hath no Diſpatch in his Buſineſs, but remains twice as long in Town as in former days, when no Cloth was to be had at the firſt-hand, but at the publick Market, upon the uſual Market-days; which kept the Merchant to a Diſpatch with the Clothier.</p>
+            <p>The Conſequences of which hath been, that the Price of Cloth hath been beat down a third part, the Prices of Wages in the Country many times from Nine-pence to Six-pence; beſides many Hardſhips to the poor Labourers, in putting Commodities upon them above the real Value. How far this Management hath affected the Country-Gentleman's Eſtate, he is now to make a Judgment.</p>
+            <p>The Practice of our <hi>Turkey-Merchants,</hi> for many Years paſt, in deferring their Shippings above two Years at a time, being added to this, (which was eminently made out by ſome of their own Members,) doth ſufficiently illuſtrate the low Prices of Wooll, and the Poverty of the Country.</p>
+            <p>The Packers who have been intruſted with the Sale of the Clothiers Cloth, without per<g ref="char:EOLhyphen"/>adventure were true to the Merchants Intereſt, otherwiſe they had never appeared ſo vi<g ref="char:EOLhyphen"/>gorous to ſupport their Practice: And this being evidently ſo, the Politick Timeing of their Shipping, hath eaſily procured Cloth upon their own Terms. In the Year 1675. the Clothiers Petitioned the Parliament againſt this Grievance, and it was then reſolved, That the <hi>Turkey</hi> Merchants ſhould ſend Ships with the Woollen-Manufactures twice a Year to their reſpective Factories: But the Order being not brought into a Law, through the riſing of the Parliament, it was ſoon forgot, and worſe Practiſes uſed in that kind ſince that time than was before, which we hope will now be redreſs'd by this Bill.</p>
+            <p>But our Merchants and Packers now give out, that they will ruin the Clothiers of thoſe Counties that are the Promoters of this Bill, by getting ſome particular Counties excepted, a greater Kindneſs than the Clothiers themſelves deſired; And in order hereto, they have pro<g ref="char:EOLhyphen"/>cured a Letter, from ſome few Clothiers of <hi>Oxfordſhire,</hi> to their Members, to deſire the ſame, which would be very unreaſonable, in that they are but one days Journey diſtant from this publick Market, and moſt other Counties above two. The next Exception is <hi>Suffolk</hi> Cloth, which hath been always ſold at <hi>Leaden-hall-Market,</hi> and is no way affected by this Bill; as alſo <hi>York-ſhire,</hi> when the Cloth of that County is Ship'd off at <hi>Hull,</hi> and none brought to <hi>London</hi> but what is bought in the Country, which is pro<g ref="char:EOLhyphen"/>vided for in the Bill. The whole of which we humbly ſubmit to the Impartial Juſtice of this Honourable Houſe.</p>
+            <pb facs="tcp:150192:2"/>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <p>OF THE CLOTHIERS.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
